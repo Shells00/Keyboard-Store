@@ -97,3 +97,8 @@ header .navbar a:hover{
 	font-size: 3rem;
 	padding: 3rem 2rem 3rem 2rem;
 }
+
+@media (max-width: 600px){
+	.navigation {width: 700px;}
+
+}
